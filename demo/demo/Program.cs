@@ -12,7 +12,7 @@ namespace demo
         {
             int a = 0, b = 1;
             int c = b / a;
-            string a = "";
+            string abc = "";
             Console.WriteLine("hello schneider electric");
         }
     }
