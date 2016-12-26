@@ -13,6 +13,7 @@ namespace demo
             int a = 0, b = 1;
             int c = b / a;
             string abc = "";
+            string def = "";
             Console.WriteLine("hello schneider electric");
         }
     }
